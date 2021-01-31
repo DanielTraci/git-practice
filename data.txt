@@ -1,0 +1,3 @@
+name - daniel
+age - 25
+favorite color - yellow
